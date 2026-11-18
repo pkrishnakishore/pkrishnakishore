@@ -20,6 +20,16 @@ With engineering degrees and a Columbia SIPA MPA (2025), I connect technical sys
 - **First author:** Pandalaneni, K. K., & Working Group 2 (2026). Data sharing and reuse in evidence synthesis. *Journal of Clinical Epidemiology*, 112526. [Published article](https://doi.org/10.1016/j.jclinepi.2026.112526).
 - **Co-author:** Saran, A., Macleod, M., and colleagues, including Pandalaneni, K. K. (2026). Safe and responsible use of AI in evidence synthesis. *Journal of Clinical Epidemiology*, 112520. [Published article](https://doi.org/10.1016/j.jclinepi.2026.112520).
 
+## Reports and consultation outputs
+
+As planning clerk and report drafter for ESIC Working Groups 2 and 3, I contributed to literature and landscape research, report development, and synthesis of consultation input. Each workstream has four staged reports and accompanying feedback summaries in the public archive.
+
+- [WG2: Data sharing and reuse — reports and feedback](https://evidencesynthesis.atlassian.net/wiki/spaces/ESE/pages/64127007/Data+Sharing+and+Re-use)
+- [WG3: Safe and responsible AI — reports and feedback](https://evidencesynthesis.atlassian.net/wiki/spaces/ESE/pages/65241091/Safe+and+Responsible+Use+of+AI+Working+Group)
+- [Report series and related ESIC outputs](https://pkrishnakishore.github.io/#esic)
+
+These are collaborative planning outputs, listed separately from the subsequent journal articles. The wider roadmap, charter, equity companion, and theory of change are community outputs.
+
 ## Research experience and client projects
 
 | Project | Contribution or output |
